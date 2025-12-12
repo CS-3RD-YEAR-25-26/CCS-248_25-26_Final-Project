@@ -1,0 +1,16 @@
+{
+    "Architecture": "Bidirectional LSTM",
+    "Total Parameters": 1955969,
+    "Vocabulary Size": 10000,
+    "Embedding Dimension": 128,
+    "Hidden Dimension": 128,
+    "Number of LSTM Layers": 2,
+    "Dropout Rate": 0.3,
+    "Best Validation Accuracy": "0.0000",
+    "Test Accuracy": "0.8377",
+    "Test F1 Score": "0.8775",
+    "Training Time": "0.00 minutes",
+    "Dataset Size": 80586,
+    "Model File": "best_bilstm_model.pt",
+    "Vocabulary File": "vocabulary.pkl"
+}
